@@ -1,2 +1,15 @@
 # LLM-Powered-Research-Assistant
-Intelligent Research Paper Analysis and Literature Review Generation using LLMs and Retrieval-Augmented Generation
+
+A Multi-Document RAG application that allows users to:
+
+- Upload research papers
+- Ask questions
+- Generate literature reviews
+- Find research gaps
+- Compare papers
+
+Built using:
+- Gemini
+- FAISS
+- Sentence Transformers
+- Streamlit
